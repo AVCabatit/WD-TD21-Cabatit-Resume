@@ -9,18 +9,14 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
-</div>
-<!-- TODO: Make a short description -->
-<div align="center">
-  Short Description. (Optional)
+  <h3 align="center">WD-Resume</h3>
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=AVCabatit/WD-Resume)
 
 ---
 
@@ -57,7 +53,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+It is a personal website resume-portfolio to be used in professional settings
 
 Guiding Question:
 - What is the project
@@ -68,15 +64,13 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Single Page Website
+-
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +111,16 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
+| Redice Studio | Design Reference | http://www.red-ice.me/en/ |
+| CSS Web Fonts | Used for inserting other fonts into CSS | https://www.w3schools.com/css/css3_fonts.asp |
+| Use Multiple Custom fonts using @font-face? | Used to check how to add another font into CSS | https://stackoverflow.com/questions/7018535/use-multiple-custom-fonts-using-font-face |
+| How to Remove an Underline from an HTML Link with CSS | Used to remove the underline in the navigation bar | https://www.shecodes.io/athena/62460-how-to-remove-underline-from-an-html-link-with-css#:~:text=To%20remove%20the%20underline%20from%20an%20HTML%20link%2C%20you%20can,any%20of%20its%20other%20styles. |
+| Learn CSS position in 5 minutes 🎯 | Used to furhter understand CSS positioning for the navigation bar and images | https://www.youtube.com/watch?v=Pp7UXS3P6jY&list=PL5-0dDv_I9k1o8tpla6-n1rjinVGvn63R |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |

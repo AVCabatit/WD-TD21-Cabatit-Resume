@@ -1,0 +1,210 @@
+/* FONTS */
+@font-face {
+    font-family: Bebas Neue;
+    src: url(/assets/fonts/Bebas-Neue_Regular.ttf);
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/assets/fonts/Montserrat_Regular.otf);
+}
+
+@font-face {
+    font-family: MontserratLight;
+    src: url(/assets/fonts/Montserrat_Light.otf);
+}
+
+/* UNIVERSAL */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HEADER */
+.navigation{
+    display: flex;
+    background-color: black;
+    border-bottom: 3px #da103b solid;
+    font-family: Bebas Neue;
+    font-weight: bold;
+    font-size: 22pt;
+    align-items: center;
+    justify-content: space-between;
+    padding: .3rem .5rem;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+
+    a{
+        text-decoration: none;
+    }
+
+    .logo{
+        color: #da103b;
+    }
+
+    nav{
+        display: flex;
+        justify-content: center;
+        gap: .5rem;
+    }
+
+    .btn{
+        color: white;
+        border: 1px black solid;
+        border-radius: 5px;
+        padding: 0.5rem 1rem;
+    }
+}
+
+/* 1ST SECTION */
+.hero{
+    height: 90dvh;
+    background-color: #221f2e;
+    overflow: hidden;
+
+    .pics{
+        position:relative;
+        height: 80dvh;
+        overflow: hidden;
+        margin-left: 5%;
+        margin-top: 5%;
+
+
+        .pic{
+            position: absolute;
+            object-fit: contain;
+            height: 820px;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+        }
+
+        .top{
+            left: 20pt;
+        }
+    }
+
+    .title{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        margin-right: 5%;
+        left: 40dvh;
+        bottom: 75dvh;
+        color: white;
+        text-align: center;
+        margin-right: 5%;
+
+        .name{
+            height: 130pt;
+            font-family: Bebas Neue;
+            font-size: 120pt;
+            letter-spacing: 5pt;
+        }
+
+        .job{
+            line-height: px;
+            font-family: Montserrat;
+            font-size: 26pt;
+            letter-spacing: 10pt;
+        }
+
+        .intro{
+            width: 500px;
+            position: relative;
+            top: 10dvh;
+            left: 65dvh;
+            text-align: right;
+            font-family: MontserratLight;
+            font-size: 18pt;
+        }
+    }
+}
+
+/* 2ND SECTION */
+.skills{
+    height: 100dvh;
+    background-color:  #221f2e;
+    display: flex;
+    justify-content: center;
+
+    .bg{
+        width: 90%;
+        background-color: white;
+        align-items: center;
+        padding-top: 10dvh;
+
+        .skills-header{
+            display: flex;
+            justify-content: center;
+            align-self: start;
+            font-family: Bebas Neue;
+            font-size: 125pt;
+            line-height: 170pt;
+        }
+
+        .skills-content{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+
+            div{
+                width:400px;
+            }
+
+            h3{
+                font-family: Montserrat;
+                font-size: 16pt;
+                letter-spacing: 5pt;
+                height: 30pt;
+            }
+
+            ul{
+                font-family: MontserratLight;
+                font-size: 14pt;
+                text-align: justify;
+                line-height: 30px;
+            }
+
+            .hard-skills{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .soft-skills{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    }
+}
+
+.exp{
+    height: 200dvh;
+    background-color:  #221f2e;
+    display: flex;
+    justify-content: center;
+
+    .bg{
+        width: 90%;
+        background-color: white;
+        align-items: center;
+        padding-top: 10dvh;
+    }
+}
+
+.acads{
+    height: 100dvh;
+}
+
+
+
+
+
+
