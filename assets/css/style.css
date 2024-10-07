@@ -15,14 +15,14 @@
 }
 
 /* UNIVERSAL */
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 /* HEADER */
-.navigation{
+.navigation {
     display: flex;
     background-color: black;
     border-bottom: 3px #da103b solid;
@@ -31,27 +31,27 @@
     font-size: 22pt;
     align-items: center;
     justify-content: space-between;
-    padding: .3rem .5rem;
+    padding: 0.3rem 0.5rem;
     position: fixed;
     width: 100%;
     top: 0;
     z-index: 1;
 
-    a{
+    a {
         text-decoration: none;
     }
 
-    .logo{
+    .logo {
         color: #da103b;
     }
 
-    nav{
+    nav {
         display: flex;
         justify-content: center;
-        gap: .5rem;
+        gap: 0.5rem;
     }
 
-    .btn{
+    .btn {
         color: white;
         border: 1px black solid;
         border-radius: 5px;
@@ -60,35 +60,34 @@
 }
 
 /* 1ST SECTION */
-.hero{
+.hero {
     height: 90dvh;
     background-color: #221f2e;
     overflow: hidden;
 
-    .pics{
-        position:relative;
-        height: 80dvh;
+    .pics {
+        position: relative;
+        height: 100%;
         overflow: hidden;
         margin-left: 5%;
         margin-top: 5%;
 
-
-        .pic{
+        .pic {
             position: absolute;
             object-fit: contain;
-            height: 820px;
+            height: 150%;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
         }
 
-        .top{
+        .top {
             left: 20pt;
         }
     }
 
-    .title{
+    .title {
         position: relative;
         display: flex;
         flex-direction: column;
@@ -99,21 +98,20 @@
         text-align: center;
         margin-right: 5%;
 
-        .name{
+        .name {
             height: 130pt;
             font-family: Bebas Neue;
             font-size: 120pt;
             letter-spacing: 5pt;
         }
 
-        .job{
-            line-height: px;
+        .job {
             font-family: Montserrat;
             font-size: 26pt;
             letter-spacing: 10pt;
         }
 
-        .intro{
+        .intro {
             width: 500px;
             position: relative;
             top: 10dvh;
@@ -126,19 +124,19 @@
 }
 
 /* 2ND SECTION */
-.skills{
+.skills {
     height: 100dvh;
-    background-color:  #221f2e;
+    background-color: #221f2e;
     display: flex;
     justify-content: center;
 
-    .bg{
+    .bg {
         width: 90%;
         background-color: white;
         align-items: center;
-        padding-top: 10dvh;
+        padding-top: 15%;
 
-        .skills-header{
+        .skills-header {
             display: flex;
             justify-content: center;
             align-self: start;
@@ -147,36 +145,36 @@
             line-height: 170pt;
         }
 
-        .skills-content{
+        .skills-content {
             display: flex;
             flex-direction: row;
             justify-content: space-evenly;
 
-            div{
-                width:400px;
+            div {
+                width: 30%;
             }
 
-            h3{
+            h3 {
                 font-family: Montserrat;
                 font-size: 16pt;
                 letter-spacing: 5pt;
                 height: 30pt;
             }
 
-            ul{
+            ul {
                 font-family: MontserratLight;
                 font-size: 14pt;
                 text-align: justify;
                 line-height: 30px;
             }
 
-            .hard-skills{
+            .hard-skills {
                 display: flex;
                 flex-direction: column;
                 align-items: center;
             }
 
-            .soft-skills{
+            .soft-skills {
                 display: flex;
                 flex-direction: column;
                 align-items: center;
@@ -185,27 +183,29 @@
     }
 }
 
-.exp{
+.exp {
     height: 200dvh;
-    background-color:  #221f2e;
+    background-color: #221f2e;
     display: flex;
     justify-content: center;
 
-    .bg{
+    .bg {
         width: 90%;
+        /* TEMPORARY BG COLOR, SHOULD BE PIC */
         background-color: rgb(255, 242, 159);
         align-items: center;
         padding-top: 5dvh;
 
-        .exp-header{
-            h3{
+        .exp-header {
+            h3 {
                 display: flex;
                 justify-content: center;
                 font-family: Bebas Neue;
                 font-size: 125pt;
                 line-height: 100pt;
             }
-            p{
+
+            p {
                 display: flex;
                 justify-content: center;
                 font-family: Montserrat;
@@ -213,31 +213,62 @@
             }
         }
 
-        .exp-content{
+        .exp-content {
             margin-top: 10dvh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
 
-            h3{
+            h3 {
+                justify-content: center;
+                font-family: Montserrat;
+                font-size: 22pt;
+                text-transform: uppercase;
+                text-align: center;
+            }
+
+            ul {
+                font-family: MontserratLight;
+                text-align: justify;
+                line-height: 180%;
+            }
+
+            .exp-coloumns{
                 display: flex;
                 flex-direction: row;
-                justify-content: center;
-                font-family: Montserrat;
-                font-size: 22pt;
+                justify-content: space-evenly;
+
+                .exp-coloumn-one{
+                    width: 30%;
+
+                    div{
+                        margin-top: 5%;
+                        margin-bottom: 5%;
+                    }
+                }
+
+                .exp-coloumn-two{
+                    width: 30%;
+
+                    div{
+                        margin-top: 5%;
+                        margin-bottom: 5%;
+                    }
+                }
             }
 
-        .exp-row-one{
-            display: flex;
-            flex-direction: row;
-        }
+            .exp-row-three{
+                display: flex;
+                
+                div {
+                    flex-direction: column;
+                    width: 30%;
+                }
+            }
         }
     }
 }
 
-.acads{
+.acads {
     height: 100dvh;
 }
-
-
-
-
-
-
