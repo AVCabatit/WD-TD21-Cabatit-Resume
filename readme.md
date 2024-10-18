@@ -4,26 +4,20 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WD-Resume</h3>
+  <a href="https://github.com/AVCabatit/"></a>
+  <h3 align="center">Midterm Project: Resume</h3>
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=AVCabatit/WD-Resume)
+
+![](https://visit-counter.vercel.app/counter.png?page=AVCabatit/WD-TD21-Cabatit-Resume)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -51,24 +45,15 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-It is a personal website resume-portfolio to be used in professional settings
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+It is a personal website resume-portfolio that was created through VSCode to showcases my skills, experiences, and works. It was created as a requirement for the course CCS0027L but it also serves as a reference for future employers to know my skillset.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
 - Single Page Website
--
+- Navigation Jump Links
+- Contact External Links
+- New Tab to Preview Comic PDF Files
 
 ### Technology
-<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -108,19 +93,18 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Redice Studio | Design Reference | http://www.red-ice.me/en/ |
-| 20 Best Digital Drawing Tablets That Will Satisfy Your Artistic Soul | Took the picture of the Ugee 1920B to use as the background for the experience section | https://yourartpath.com/20-best-digital-drawing-tablets-that-will-satisfy-your-artistic-soul |
-| PenTips | Used the image as the backrgound of the footer | https://ph.pinterest.com/pin/818318194825919173/ |
-| Simple Responsive Footer Design using HTML and CSS | Referenced the design for the footer | https://foolishdeveloper.com/simple-responsive-footer-design-using-html-and-css/ |
-| Social media icons | Used the icons for the footer | https://www.iconfinder.com/social-media-icons |
+| Redice Studio | General website design reference | http://www.red-ice.me/en/ |
+| Simple Responsive Footer Design using HTML and CSS | Footer design reference | https://foolishdeveloper.com/simple-responsive-footer-design-using-html-and-css/ |
+| 20 Best Digital Drawing Tablets That Will Satisfy Your Artistic Soul | Used Picture of Ugee 1920B as the experience section background | https://yourartpath.com/20-best-digital-drawing-tablets-that-will-satisfy-your-artistic-soul |
+| PenTips | Used image as the backrgound of the footer | https://ph.pinterest.com/pin/818318194825919173/ |
+| Social media icons | Used the social media icons for the footer | https://www.iconfinder.com/social-media-icons |
 | Mail, email icon | Mail icon for footer | https://www.iconfinder.com/icons/134147/mail_email_icon |
 | Square, phone icon | Phone icon for footer | https://www.iconfinder.com/icons/8665804/square_phone_icon |
 | CSS Web Fonts | Used for learning how to insert other fonts into CSS | https://www.w3schools.com/css/css3_fonts.asp |
 | Use Multiple Custom fonts using @font-face? | Used to check how to add another font into CSS | https://stackoverflow.com/questions/7018535/use-multiple-custom-fonts-using-font-face |
-| How to Remove an Underline from an HTML Link with CSS | Used to remove the underline in the navigation bar | https://www.shecodes.io/athena/62460-how-to-remove-underline-from-an-html-link-with-css#:~:text=To%20remove%20the%20underline%20from%20an%20HTML%20link%2C%20you%20can,any%20of%20its%20other%20styles. |
+| How to Remove an Underline from an HTML Link with CSS | Used to remove the underline of the buttons in the navigation bar | https://www.shecodes.io/athena/62460-how-to-remove-underline-from-an-html-link-with-css#:~:text=To%20remove%20the%20underline%20from%20an%20HTML%20link%2C%20you%20can,any%20of%20its%20other%20styles. |
 | Learn CSS position in 5 minutes 🎯 | Used to further understand CSS positioning for the navigation bar and images | https://www.youtube.com/watch?v=Pp7UXS3P6jY&list=PL5-0dDv_I9k1o8tpla6-n1rjinVGvn63R |
 |  position | Additional reference for CSS positioning | https://developer.mozilla.org/en-US/docs/Web/CSS/position |
 | CSS placing one image on top of another | Used to learn how to stack the images in the hero section | https://stackoverflow.com/questions/18235709/css-placing-one-image-on-top-of-another |
@@ -137,12 +121,9 @@ WD-ProjectName
 | display | Used to fix the content of the experience section | https://developer.mozilla.org/en-US/docs/Web/CSS/display |
 | Basic concepts of grid layout | Additional reference for adjusting the content of the exerience section | https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout |
 | [HTML] - How to make h1 on two lines with different colors | Used for fixing the alignment of epxerience section content | https://www.shecodes.io/athena/38295-how-to-make-h1-on-two-lines-with-different-colors |
-| Fitting Text to a Container | Used to make sure that text doesn't overlap other elements when viewing in a different sized monitor | https://css-tricks.com/fitting-text-to-a-container/ |
+| Fitting Text to a Container | Used to make sure that text doesn't overlap with other elements when viewing in a different sized monitor | https://css-tricks.com/fitting-text-to-a-container/ |
 | Linking to a pdf file with html | Used to insert the pdfs of the comics in the works section | https://stackoverflow.com/questions/36899940/linking-to-a-pdf-file-with-html |
 | Opening a new tab to read a PDF file | Additional reference for inserting pdfs | https://stackoverflow.com/questions/16925481/opening-a-new-tab-to-read-a-pdf-file |
 | Invert colors of an image in CSS or JavaScript | Used to invert the color of the footer icons | https://stackoverflow.com/questions/13325798/invert-colors-of-an-image-in-css-or-javascript |
 | CSS filter Property | Additional reference for using the filter property | https://www.w3schools.com/cssref/css3_pr_filter.php |
 | Jump links using ID tags | Used to add in-page jump links to the navigation buttons | https://sitesuserguide.stanford.edu/build/working-text-editor/create-links/jump-links-using-id-tags#create-in-page-jump-link |
-|  |  |  |
-
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
