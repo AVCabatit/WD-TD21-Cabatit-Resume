@@ -288,11 +288,6 @@
   }
 }
 
-.works,
-.works * {
-  outline: #0004ff dashed 1px;
-}
-
 .works {
   height: auto;
   background-color: #221f2e;
