@@ -111,11 +111,14 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-Design/Asset References
 | Redice Studio | Design Reference | http://www.red-ice.me/en/ |
 | 20 Best Digital Drawing Tablets That Will Satisfy Your Artistic Soul | Took the picture of the Ugee 1920B to use as the background for the experience section | https://yourartpath.com/20-best-digital-drawing-tablets-that-will-satisfy-your-artistic-soul |
+| PenTips | Used the image as the backrgound of the footer | https://ph.pinterest.com/pin/818318194825919173/ |
+| Simple Responsive Footer Design using HTML and CSS | Referenced the design for the footer | https://foolishdeveloper.com/simple-responsive-footer-design-using-html-and-css/ |
+| Social media icons | Used the icons for the footer | https://www.iconfinder.com/social-media-icons |
+| Mail, email icon | Mail icon for footer | https://www.iconfinder.com/icons/134147/mail_email_icon |
+| Square, phone icon | Phone icon for footer | https://www.iconfinder.com/icons/8665804/square_phone_icon |
 
-Code References
 | CSS Web Fonts | Used for learning how to insert other fonts into CSS | https://www.w3schools.com/css/css3_fonts.asp |
 | Use Multiple Custom fonts using @font-face? | Used to check how to add another font into CSS | https://stackoverflow.com/questions/7018535/use-multiple-custom-fonts-using-font-face |
 | How to Remove an Underline from an HTML Link with CSS | Used to remove the underline in the navigation bar | https://www.shecodes.io/athena/62460-how-to-remove-underline-from-an-html-link-with-css#:~:text=To%20remove%20the%20underline%20from%20an%20HTML%20link%2C%20you%20can,any%20of%20its%20other%20styles. |
@@ -138,8 +141,8 @@ Code References
 | Fitting Text to a Container | Used to make sure that text doesn't overlap other elements when viewing in a different sized monitor | https://css-tricks.com/fitting-text-to-a-container/ |
 | Linking to a pdf file with html | Used to insert the pdfs of the comics in the works section | https://stackoverflow.com/questions/36899940/linking-to-a-pdf-file-with-html |
 | Opening a new tab to read a PDF file | Additional reference for inserting pdfs | https://stackoverflow.com/questions/16925481/opening-a-new-tab-to-read-a-pdf-file |
-|  |  |  |
-|  |  |  |
+| Invert colors of an image in CSS or JavaScript | Used to invert the color of the footer icons | https://stackoverflow.com/questions/13325798/invert-colors-of-an-image-in-css-or-javascript |
+| CSS filter Property | Additional reference for using the filter property | https://www.w3schools.com/cssref/css3_pr_filter.php |
 |  |  |  |
 |  |  |  |
 
