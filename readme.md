@@ -118,7 +118,6 @@ WD-ProjectName
 | Social media icons | Used the icons for the footer | https://www.iconfinder.com/social-media-icons |
 | Mail, email icon | Mail icon for footer | https://www.iconfinder.com/icons/134147/mail_email_icon |
 | Square, phone icon | Phone icon for footer | https://www.iconfinder.com/icons/8665804/square_phone_icon |
-
 | CSS Web Fonts | Used for learning how to insert other fonts into CSS | https://www.w3schools.com/css/css3_fonts.asp |
 | Use Multiple Custom fonts using @font-face? | Used to check how to add another font into CSS | https://stackoverflow.com/questions/7018535/use-multiple-custom-fonts-using-font-face |
 | How to Remove an Underline from an HTML Link with CSS | Used to remove the underline in the navigation bar | https://www.shecodes.io/athena/62460-how-to-remove-underline-from-an-html-link-with-css#:~:text=To%20remove%20the%20underline%20from%20an%20HTML%20link%2C%20you%20can,any%20of%20its%20other%20styles. |
@@ -143,7 +142,7 @@ WD-ProjectName
 | Opening a new tab to read a PDF file | Additional reference for inserting pdfs | https://stackoverflow.com/questions/16925481/opening-a-new-tab-to-read-a-pdf-file |
 | Invert colors of an image in CSS or JavaScript | Used to invert the color of the footer icons | https://stackoverflow.com/questions/13325798/invert-colors-of-an-image-in-css-or-javascript |
 | CSS filter Property | Additional reference for using the filter property | https://www.w3schools.com/cssref/css3_pr_filter.php |
-|  |  |  |
+| Jump links using ID tags | Used to add in-page jump links to the navigation buttons | https://sitesuserguide.stanford.edu/build/working-text-editor/create-links/jump-links-using-id-tags#create-in-page-jump-link |
 |  |  |  |
 
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |

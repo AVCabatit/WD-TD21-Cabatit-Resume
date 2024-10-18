@@ -449,11 +449,6 @@
   }
 }
 
-.contacts,
-.contacts * {
-  outline: #ff00e1 dashed 1px;
-}
-
 .contacts {
   background-image: url(../img/picScreenTabTwo.png);
   background-position-y: -190vh;
@@ -470,11 +465,12 @@
     font-family: Bebas Neue;
     font-size: 5vw;
     margin-top: 1rem;
+    margin-bottom: .5rem;
   }
 
   p {
     font-family: Montserrat;
-    font-size: 0.9vw;
+    font-size: 1.2vw;
     align-self: center;
   }
 
