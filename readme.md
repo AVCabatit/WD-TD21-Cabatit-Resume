@@ -93,6 +93,7 @@ WD-ProjectName
 
 ## Resources
 
+
 | Title | Purpose | Link |
 |-|-|-|
 | Redice Studio | General website design reference | http://www.red-ice.me/en/ |
