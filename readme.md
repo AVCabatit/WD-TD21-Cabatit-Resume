@@ -111,13 +111,33 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
+Design/Asset References
 | Redice Studio | Design Reference | http://www.red-ice.me/en/ |
-| CSS Web Fonts | Used for inserting other fonts into CSS | https://www.w3schools.com/css/css3_fonts.asp |
+| 20 Best Digital Drawing Tablets That Will Satisfy Your Artistic Soul | Took the picture of the Ugee 1920B to use as the background for the experience section | https://yourartpath.com/20-best-digital-drawing-tablets-that-will-satisfy-your-artistic-soul |
+
+Code References
+| CSS Web Fonts | Used for learning how to insert other fonts into CSS | https://www.w3schools.com/css/css3_fonts.asp |
 | Use Multiple Custom fonts using @font-face? | Used to check how to add another font into CSS | https://stackoverflow.com/questions/7018535/use-multiple-custom-fonts-using-font-face |
 | How to Remove an Underline from an HTML Link with CSS | Used to remove the underline in the navigation bar | https://www.shecodes.io/athena/62460-how-to-remove-underline-from-an-html-link-with-css#:~:text=To%20remove%20the%20underline%20from%20an%20HTML%20link%2C%20you%20can,any%20of%20its%20other%20styles. |
-| Learn CSS position in 5 minutes 🎯 | Used to furhter understand CSS positioning for the navigation bar and images | https://www.youtube.com/watch?v=Pp7UXS3P6jY&list=PL5-0dDv_I9k1o8tpla6-n1rjinVGvn63R |
-|  |  |  |
-|  |  |  |
+| Learn CSS position in 5 minutes 🎯 | Used to further understand CSS positioning for the navigation bar and images | https://www.youtube.com/watch?v=Pp7UXS3P6jY&list=PL5-0dDv_I9k1o8tpla6-n1rjinVGvn63R |
+|  position | Additional reference for CSS positioning | https://developer.mozilla.org/en-US/docs/Web/CSS/position |
+| CSS placing one image on top of another | Used to learn how to stack the images in the hero section | https://stackoverflow.com/questions/18235709/css-placing-one-image-on-top-of-another |
+| CSS The object-fit Property | Additional reference for adjusting the image | https://www.w3schools.com/css/css3_object-fit.asp |
+| Avoid an image to go outside a div? | Used to crop the images in the hero section | https://stackoverflow.com/questions/4328625/avoid-an-image-to-go-outside-a-div |
+| CSS Layout - Overflow | Used to further understand the overflow property | https://www.w3schools.com/css/css_overflow.asp |
+| Looking at a problem with image overlapping nav bar | Used as a reference to prevent the image in the hero section from going over the navigation bar while scrolling | https://stackoverflow.com/questions/54534042/looking-at-a-problem-with-image-overlapping-nav-bar |
+| z-index | Used to further research the function of z-index | https://developer.mozilla.org/en-US/docs/Web/CSS/z-index |
+| Font scaling based on size of container | Used to learn how to prevent the text in the hero section from overlapping with the images | https://stackoverflow.com/questions/16056591/font-scaling-based-on-size-of-container |
+| CSS: background-color only inside the margin | Used as a reference on how to add a border to the skills section | https://stackoverflow.com/questions/10048800/css-background-color-only-inside-the-margin |
+| How to create columns in HTML | Referenced in order to create the content of the skills section | https://www.educative.io/answers/how-to-create-columns-in-html |
+| Alignment of 2 columns of text | Used as an additional reference in order to align the content of the skills section | https://stackoverflow.com/questions/16326418/alignment-of-2-columns-of-text |
+| How to Fit Background Image to Div using CSS? | Used to make the background of the experience section | https://www.geeksforgeeks.org/how-to-fit-background-image-to-div-using-css/ |
+| display | Used to fix the content of the experience section | https://developer.mozilla.org/en-US/docs/Web/CSS/display |
+| Basic concepts of grid layout | Additional reference for adjusting the content of the exerience section | https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout |
+| [HTML] - How to make h1 on two lines with different colors | Used for fixing the alignment of epxerience section content | https://www.shecodes.io/athena/38295-how-to-make-h1-on-two-lines-with-different-colors |
+| Fitting Text to a Container | Used to make sure that text doesn't overlap other elements when viewing in a different sized monitor | https://css-tricks.com/fitting-text-to-a-container/ |
+| Linking to a pdf file with html | Used to insert the pdfs of the comics in the works section | https://stackoverflow.com/questions/36899940/linking-to-a-pdf-file-with-html |
+| Opening a new tab to read a PDF file | Additional reference for inserting pdfs | https://stackoverflow.com/questions/16925481/opening-a-new-tab-to-read-a-pdf-file |
 |  |  |  |
 |  |  |  |
 |  |  |  |
